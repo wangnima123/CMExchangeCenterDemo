@@ -1,0 +1,4 @@
+framework module SwiftProgressHUD {
+    header "SwiftProgressHUD-Swift.h"
+    requires objc
+}

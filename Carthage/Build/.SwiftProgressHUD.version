@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.0.6",
+  "iOS" : [
+    {
+      "name" : "SwiftProgressHUD",
+      "hash" : "5717a80d842cc4a71875bb554af4b3fddfbc45e25adead20cb11ee8aa4293498"
+    }
+  ]
+}
